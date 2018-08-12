@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>E29N3XN5Y4.MyID.MyRSSReader</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>8YH8KUCB85</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>E29N3XN5Y4.MyID.MyRSSReader</string>
+	</array>
+</dict>
+</plist>

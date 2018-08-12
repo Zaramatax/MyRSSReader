@@ -1,0 +1,7 @@
+http://www.raywenderlich.com/2636/rss-reader-tutorial-for-ios-how-to-make-a-simple-rss-reader-iphone-app
+
+http://www.appcoda.com/ios-programming-rss-reader-tutorial/
+
+www.touch-code-magazine.com/tutorial-building-advanced-rss-reader-with-ios6/
+
+https://www.google.ru/search?q=ios+rss+reader+source+code&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=sb&gfe_rd=cr&ei=hH8rVKTjOM7AsAGikILYDg#newwindow=1&rls=org.mozilla:en-US:official&channel=sb&q=ios+rss+reader+development
